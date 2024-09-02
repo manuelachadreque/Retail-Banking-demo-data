@@ -1,1 +1,1 @@
-# Retail-Banking-demo-data
+# Retail-Banking-Exploration - EDA
